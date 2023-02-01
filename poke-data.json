@@ -1,0 +1,13 @@
+{
+    "speed": ["pidgey","rattata","zigzagoon","zubat","golbat","crobat","spearow","fearow","meowth","furret","dugtrio","diglett"],
+    "rare": ["plusle","minun","sandile","machamp","mareep","shinx","heracross","pineco","stantler","staryu","misdreavus","pineco"],
+    "attack": ["spinarak","sentret","weedle","snubbull","machamp","bellsprout","weepinbell"], 
+    "defense": ["kakuna","metapod","golem","sandshrew","sandslash","geodude"], 
+    "sp.attack": ["gastly","haunter","gengar","spinda"],
+    "hp": ["caterpie"],
+    "arena":["dugtrio"],
+    "text" :["no pp left","trying to learn"],
+    "specific": ["chansey","ditto"],
+    "current": ["specific","arena"],
+    "range":[1,3]
+}
